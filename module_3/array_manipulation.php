@@ -4,7 +4,6 @@ $students=array("faria", "maria", "aysha", "barisha", "sumaiya");
 $insart= array_push($students, "Sadia");
 echo "Insert data array_push is ".$insart."\n";
 
-
 $n=count($students);
 
 for ($i=0; $i <$n ; $i++) { 
