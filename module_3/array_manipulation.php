@@ -11,7 +11,6 @@ for ($i=0; $i <$n ; $i++) {
    echo $students[$i]."\n";
 };
 
-
 $first_one= array_shift($students);
 echo "the first one is array_shift is ".$first_one."\n";
 
